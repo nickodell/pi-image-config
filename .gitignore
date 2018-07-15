@@ -7,3 +7,5 @@ SKIP_IMAGES
 .pc
 *-pc
 apt-cacher-ng/
+_stage*
+stage3/01-wifi/wpa_supplicant.conf
